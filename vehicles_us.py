@@ -6,8 +6,8 @@ df_vehicles = pd.read_csv("notebooks/vehicles_us.csv")
 
 st.header(
     "Análisis de los Anúncios de Venta para Vehículos Usados en los Estados Unidos")
+st.image("image_vehicles_us.png", use_container_width=True)
 st.write("")
-
 st.write("A continuación, encontrará una lista con diversas secciones que al seleccionar una o varias, le mostrará el análisis con gráficos y observaciones relevantes.")
 st.divider()
 
