@@ -6,10 +6,11 @@ secondaryBackgroundColor = "#ffffff"
 textColor = "#333333"
 font = "sans serif"
 
-[server]
-headless = true
-port = 10000
+# No haré uso de esta configuración ya que no me funcionó.
+# [server]
+# headless = true
+# port = 10000
 
-[browser]
-serverAddress = "0.0.0.0"
-serverPort = 10000
+# [browser]
+# serverAddress = "0.0.0.0"
+# serverPort = 10000
