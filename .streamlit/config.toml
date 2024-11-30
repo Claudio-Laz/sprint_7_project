@@ -5,3 +5,11 @@ backgroundColor = "#f9f9f9"
 secondaryBackgroundColor = "#ffffff"
 textColor = "#333333"
 font = "sans serif"
+
+[server]
+headless = true
+port = 10000
+
+[browser]
+serverAddress = "0.0.0.0"
+serverPort = 10000
