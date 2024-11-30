@@ -6,3 +6,6 @@ Esta aplicación web fue desarrollada utilizando **Streamlit** y tiene como obje
 El desarrollo de esta aplicación forma parte del proyecto del **Sprint 7: Herramientas de desarrollo de software**. Durante el proceso, cometí errores y me hice muchas preguntas que me llevaron a investigar, resolver los errores y explorar diferentes alternativas, lo cual resultó en un enorme aprendizaje. Este proyecto me permitió descubrir la oportunidad de hacer realidad proyectos personales que en mente tenía.
 
 Espero que esta versión final cumpla con lo necesario para su aprobación. Ha sido un gran sprint, mi favorito ahora.
+
+El link a esta aplicación web es:
+https://sprint-7-project-dk2q.onrender.com/
